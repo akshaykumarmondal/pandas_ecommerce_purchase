@@ -11,8 +11,23 @@ I will be working with an E-commerce dataset, and my objectives include:
 2. **Case Study Questions:** Formulate and answer specific questions to derive insights from the data. This involves leveraging Pandas for data manipulation, analysis, and visualization.
 
 ## Dataset Information
+- **Dataset Columns**
+  - 'Address': The customer's billing address.
+  - 'Lot': A unique identifier for the purchase.
+  - 'AM or PM': Indicates whether the purchase was made in the morning or afternoon.
+  - 'Browser Info': Information about the customer's web browser.
+  - 'Company': The customer's workplace or company name.
+  - 'Credit Card': The credit card number used for the purchase.
+  - 'CC Exp Date': The credit card expiration date.
+  - 'CC Security Code': The security code on the credit card.
+  - 'CC Provider': The provider of the credit card (e.g., Visa, MasterCard).
+  - 'Email': The customer's email address.
+  - 'Job': The customer's occupation or job title.
+  - 'IP Address': The IP address of the customer's device.
+  - 'Language': The language preference of the customer.
+  - 'Purchase Price': The amount spent on the purchase.
 
-- **Source:** Kaggle
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases)
 - **Purpose:** Skill enhancement in Pandas and data analysis
 - **Key Activities:**
   - Downloaded the E-commerce purchase dataset
@@ -37,6 +52,7 @@ I will be working with an E-commerce dataset, and my objectives include:
 14. How many people have a credit card that expires in 2020?
 15. What are the top 5 most popular email providers (e.g. gmail.com, yahoo.com, etc...) 
 
+Case Study [SOLUTIONS](https://github.com/akshaykumarmondal/pandas_ecommerce_purchase/blob/main/pandas_ecommerce_purchase_analysis/start.ipynb)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kumar-mondal-%F0%9F%87%AE%F0%9F%87%B3-b8aba720a/)
 
